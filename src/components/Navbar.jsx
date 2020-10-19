@@ -70,6 +70,7 @@ const Navbar = (props) => {
               <b>Projects</b>
             </a>
           </li>
+          {/*
           <li className="nav-item">
             <a
               className="nav-link lead"
@@ -78,6 +79,7 @@ const Navbar = (props) => {
               <b>Leadership</b>
             </a>
           </li>
+          */}
           <li className="nav-item">
             <a
               className="nav-link lead"
