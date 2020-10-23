@@ -5,7 +5,7 @@
   "FirstName": "Sneha",
   "MiddleName": "",
   "LastName": "Herle",
-  "devDesc": "Passionate about changing the world with technology.",
+  "devDesc": "Passionate about leveraging technology to make all lives better.",
   "icons": [
     {
       "id": 0,
@@ -40,7 +40,7 @@
     {
       "id": 5,
       "image": "fa-medium",
-      "url": "https://medium.com/@sneha.herle",
+      "url": "https://medium.com/@sneha-herle",
       "style": "socialicons"
     },
     {
@@ -56,7 +56,7 @@
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "sneha_herle",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "Hello! My name is Sneha and I am a Software Engineer with a penchant for coding, who has worked at every level of the software development process which includes project design, client interaction, code development, testing, documentation and post production support. My greatest passion is to work on a product which makes lives better and has a positive impact on nature.",
+  "aboutDescription": "Hello! My name is Sneha and I am a Software Developer with a penchant for coding, who has worked at every level of the software development process which includes project design, client interaction, code development, testing, documentation and post production support. My greatest passion is to work on a product which makes lives better and has a positive impact on nature.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "SnehaHerle",

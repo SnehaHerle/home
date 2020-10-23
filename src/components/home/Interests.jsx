@@ -32,14 +32,14 @@ const Interests = () => {
                 <p className="lead text-center" style={{fontSize:'28px'}}>Reading</p>
                 <img src="https://img.icons8.com/nolan/128/saving-book.png"/>
                 <p className="lead text-center">
-                  I have been a voracious reader since childhood. Non-fiction books are my favorites. Check out what I've been reading on <a href="https://www.goodreads.com/user/show/57196887-sneha-herle" target="_blank">Goodreads</a>!
+                  I have been a voracious reader since childhood. You always find me with a book. Non-fiction books are my favorites. Check out what I've been reading on <a href="https://www.goodreads.com/user/show/57196887-sneha-herle" target="_blank">Goodreads</a>! Would love to hear about your favorite books.
                 </p>
                 </div>
                 <div className="col text-center" >
                 <p className="lead text-center" style={{fontSize:'28px'}}>Writing</p>
                 <img src="https://img.icons8.com/nolan/128/pen.png"/>
                 <p className="lead text-center">
-                  I love to write blogs describing how I feel about something and what was my experience. Check out what I've been writing on <a href="https://www.quora.com/profile/Sneha-Herle" target="_blank">Quora</a> and <a href="https://medium.com/@sneha.herle" target="_blank">Medium</a>.
+                  I have always loved to write blogs. I am someone who conveys better through writing. Check out what I've been writing on <a href="https://www.quora.com/profile/Sneha-Herle" target="_blank">Quora</a> and <a href="https://medium.com/@sneha.herle" target="_blank">Medium</a>. Do let me know if you loved one of my writings.
                 </p>
                 </div>
                 
@@ -47,14 +47,14 @@ const Interests = () => {
                 <p className="lead text-center" style={{fontSize:'28px'}}>Walking</p>
                 <img src="https://img.icons8.com/nolan/128/exercise.png"/>
                 <p className="lead text-center">
-                  I love going on long walks in parks all by myself. It calms me and helps in organising my thoughts. 
+                  I love going on long walks in parks all by myself. While walking I would observe the birds, butterflies and touch the barks of trees and the soft leaves. Its my panacea and a way to keep myself calm.
                 </p>
                 </div>
                 <div className="col text-center">
                 <p className="lead text-center" style={{fontSize:'28px'}}>Art</p>
                 <img src="https://img.icons8.com/nolan/128/paint-palette.png"/>
                 <p className="lead text-center">
-                  Although I am not a very good painter, I paint sometimes on weekends just for the joy it provides me.
+                  Although I am not a very good painter, I paint sometimes on weekends just for fun. There's something extremely calming about drawing symmetrical designs or painting a scenery with a myriad hues.
                 </p>
                 </div>
             </div>

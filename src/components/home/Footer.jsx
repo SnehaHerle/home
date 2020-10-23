@@ -32,7 +32,8 @@ import {
             any positions available, have any questions, or just want to say hi, please feel free to email me at  
             <a href="mailto:sneha.herle@gmail.com">{" "}
                sneha.herle@gmail.com
-            </a>{"."}
+            </a>{" "}
+             or reach out to me on <a href="https://www.linkedin.com/in/sneha-herle/">LinkedIn</a>.
           </p>
           
             {/* {icons.map((icon) => (
