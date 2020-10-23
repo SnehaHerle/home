@@ -9,7 +9,7 @@
 
 <!-- PROJECT LOGO -->
 
-[![Site preview](/public/social-image.png)](https://anaashrafi.github.io/)
+[![Site preview](/public/social-image.png)](https://snehaherle.github.io/home/)
 
 ## Technology Stack 
 
