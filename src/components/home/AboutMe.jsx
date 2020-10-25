@@ -48,7 +48,7 @@ const AboutMe = () => {
       });
   };
 
-  return (
+  return ( 
     <div id="aboutme" className="jumbotron jumbotron-fluid m-0" style={{backgroundColor:'#f7f7f7'}}>
       <div className="container container-fluid">
         <div className="row" style={divStyle}>
@@ -64,6 +64,8 @@ const AboutMe = () => {
             <div className="col d-lg-inline align-self-center">
             <h1 className="display-4 mb-5 text-center">{aboutHeading}</h1>
             <p className="lead text-center">{aboutDescription}</p><br/>
+            
+            {/*
             {resumeURL && (
               <p className="lead text-center">
                 <a 
@@ -78,6 +80,8 @@ const AboutMe = () => {
                 </a>
               </p>
             )}
+            */}
+            
           </div>
         </div>
       </div>
