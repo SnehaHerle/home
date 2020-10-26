@@ -64,7 +64,7 @@ const ProjectCard = ({ value }) => {
     <div className="col-md-6">
       <div className="card shadow-lg p-3 mb-5 bg-white rounded">
         {/* <img src="" className="card-img-top" alt="..." /> */}
-        <div className="card-body">
+        <div className="card-body" style={{overflow:"hidden"}}>
           <h5 className="card-title">{name} </h5>
           <p className="card-text">{description} </p>
           <div style={{alignItems:"center"}}>{projectImage}</div>
