@@ -39,7 +39,7 @@ const Interests = () => {
                 <p className="lead text-center" style={{fontSize:'28px'}}>Writing</p>
                 <img src="https://img.icons8.com/nolan/128/pen.png"/>
                 <p className="lead text-center">
-                  I have always loved to write blogs. I am someone who conveys better through writing. Check out what I've been writing on <a href="https://www.quora.com/profile/Sneha-Herle" target="_blank">Quora</a> and <a href="https://medium.com/@sneha.herle" target="_blank">Medium</a>. Do let me know if you loved one of my writings.
+                  I have always loved to write blogs. I am someone who conveys better through writing. Check out what I've been writing on <a href="https://www.quora.com/profile/Sneha-Herle" target="_blank">Quora</a>, <a href="https://medium.com/@sneha.herle" target="_blank">Medium</a> and <a href="https://blog.fibonalabs.com/author/sneha/" target="_blank">Fibonalabs Blog</a>. Do let me know if you loved one of my writings.
                 </p>
                 </div>
                 
@@ -54,7 +54,7 @@ const Interests = () => {
                 <p className="lead text-center" style={{fontSize:'28px'}}>Art</p>
                 <img src="https://img.icons8.com/nolan/128/paint-palette.png"/>
                 <p className="lead text-center">
-                  Although I am not a very good painter, I paint sometimes on weekends just for fun. There's something extremely calming about drawing symmetrical designs or painting a scenery with a myriad hues.
+                  Although I am not a very good painter, I paint sometimes on weekends just for fun. There's something extremely calming about drawing symmetrical designs or painting a scenery with a myriad hues. Check out my <a href="https://in.pinterest.com/snehaherle/my-paintings-rangoli-designs/" target="_blank">Pinterest Art Board</a> for my paintings!
                 </p>
                 </div>
             </div>

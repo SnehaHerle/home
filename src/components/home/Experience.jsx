@@ -1,5 +1,6 @@
 import React, { useState, useEffect, Profiler } from "react";
 import MetricStream from '../../editable-stuff/metricstream-logo.png'
+import Fibonalabs from '../../editable-stuff/Fibonalabs.png'
 const divStyle = {
     display: 'flex',
     flexDirection: 'row',
@@ -14,6 +15,32 @@ return (
             <h1 className="display-4 mb-5 text-center">Experience</h1>
             {/* <h1 className="display-4 pb-5">Experience</h1> */}
             <div className="row" style={divStyle}>
+                <div className="col text-center" >
+                    <img
+                        // className="border border-secondary rounded-circle"
+                        src={Fibonalabs}
+                        alt="Fibonalabs logo"
+                        width="420"
+                        height="90"
+                    />
+                    <br/>
+                    <br/>
+                    <p className="lead text-center" style={{fontSize:'22px'}}>
+                        Software Development Engineer - 1
+                        <br/>
+                        January 2021 - Present
+                    </p>
+                    <p className="lead text-center" style={{fontSize:'22px', fontStyle:'italic', color:'#1976d2'}}>
+                    Received the Standout Performer Award for FY'21 Q4 for outstanding work as a Developer for Smile Genius Project by learning new technologies and implementing them quickly, and also for interacting and co-ordinating closely with the whole team.
+                    </p>
+                    {
+                    <p className="lead text-center" style={{fontSize:'22px', fontStyle:'italic'}}>
+                    At Fibonalabs, I am currently working as a SDE-1 (Backend) where I am using Serverless Node.js to implement projects and also using AWS Cloud technologies like AWS SAM, RDS, DynamoDB, S3, Cognito, Lambda, API Gateway, CodeCommit, SES, and CloudFormation. I am also working on the integration of 3rd party tools like Twilio, Stripe, and Firebase. I am also closely coordinating with the project team and also mentoring interns.
+                    <br/>
+                    </p>
+                    }
+                    {/* <h3>Dell Technologies</h3> */}
+                </div>
                 <div className="col text-center" >
                     <img
                         // className="border border-secondary rounded-circle"

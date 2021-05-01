@@ -28,6 +28,23 @@ return (
                   <p className="lead">JavaScript
                   {/*<ProgressBar now={87} style={{width:'490px', backgroundColor:'white'}}/>*/}
                   </p>
+                  <p className="lead">AWS SAM
+                  </p>
+                  <p className="lead">AWS API Gateway, Lambda, S3
+              
+                  </p>
+                  <p className="lead">AWS Cognito, SES
+                  
+                  </p>
+              </div>
+              <div className="col">
+                <br/>
+                  <p className="lead">AWS RDS, DynamoDB
+                  
+                  </p>
+                  <p className="lead">Codecommit, Git
+                  {/*<ProgressBar now={87} style={{width:'490px', backgroundColor:'white'}}/>*/}
+                  </p>
                   <p className="lead">MongoDB
                   </p>
                   <p className="lead">C/C++
