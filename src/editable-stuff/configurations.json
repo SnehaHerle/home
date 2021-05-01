@@ -61,7 +61,7 @@
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "SnehaHerle",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
-  "projectsLength": 6,
+  "projectsLength": 4,
   "showNavigationbar": true,
   "showBlog": false
 }
