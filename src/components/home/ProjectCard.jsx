@@ -59,6 +59,12 @@ const ProjectCard = ({ value }) => {
   else if(name == "my-first-blog"){
     projectImage = <img src="https://lh3.googleusercontent.com/XkZ6ew3UnIIIQZJYed67IwWPVewlQcLCsqyw9kAVH8zvtzo4EX5kspSAUcJ7GU-EwJF03twozvDGGM48XwNg-1sSdoGXmP-9WWB61ULn3FNvz-WEshApV0Ky7T7e5ZmFcl2EV9ny55XSkopWIYzZoVwh5NqRMA3I_7YxigN6bO6udHRSSJ5Eqvk9q_EldQyekB_hxuiupB-ae8LAs6OdLJSjbHfew0spYZiCoibU6W6fbe0XvzA4rBP0Y4PMbfvT9u--Y9t-ByWo4XR2q1XoN9b5E2OEBbrQdB7lAAIbb_Tg44co5YcPB1MfMIXjvkzKbdPPfGNCQggzt3AzdC-x4izlPTvuO8SjeUdt9h1lTex3Hk7MrcXMf5u15icxyyHEcdJgB37A4WDVrnIxTdkInE5IMvP_aZDZzdE627EjqZW3ktplh2xZiZp1n814tA1VdF-7JDTp6654dtVXhvgPU2n28gjfUCkHutzDhrsDD0922YZGtAdqJ_zUolqLB9_3dal8yhSz_07T7M9MJa9WDo43aHEUE20M15MZcSp44FdnlfjSeAAklxXu3ph_QXpq3pIkA_tl9Dm8KHX_Zkhfx2bMDmo3V6YX4jEDFTnAWYm-Nr3PAiiPGnokHbOCOa7ITLDnmFZjuf25hiI89MO2n8cBeK6f10f4O0mR0T2j_2l1PzbGRPbwu8908F15qA=w433-h243-no?authuser=0"/>
   }
+  else if(name == "CodeChef"){
+    projectImage = <img src="https://unsplash.com/photos/Skf7HxARcoc"/>
+  }
+  else if(name == "LeetCode"){
+    projectImage = <img src="https://unsplash.com/photos/Skf7HxARcoc"/>
+  }
 
   return (
     <div className="col-md-6">
