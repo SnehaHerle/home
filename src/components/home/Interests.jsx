@@ -39,7 +39,7 @@ const Interests = () => {
                 <div className="col text-center" style={colStyle}>
                 <p className="lead text-center" style={{fontSize:'28px'}}>Writing</p>
                 <img src="https://img.icons8.com/nolan/128/pen.png"/>
-                <p className="lead text-center" style={{fontSize:'15px'}}>I've always loved to write blogs. I'm someone who conveys better through writing. Check out what I've been writing on <a href="https://www.quora.com/profile/Sneha-Herle" target="_blank">Quora</a>, <a href="https://medium.com/@sneha.herle" target="_blank">Medium</a> and <a href="https://blog.fibonalabs.com/author/sneha/" target="_blank">Fibonalabs Blog</a>. Do let me know if you loved one of my writings.</p>
+                <p className="lead text-center" style={{fontSize:'15px'}}>I've always loved to write blogs. I'm someone who conveys better through writing. Check out what I've been writing on <a href="https://www.quora.com/profile/Sneha-Herle" target="_blank">Quora</a>, <a href="https://sneha-herle.medium.com/" target="_blank">Medium</a> and <a href="https://blog.fibonalabs.com/author/sneha/" target="_blank">Fibonalabs Blog</a>. Do let me know if you loved one of my writings.</p>
                 </div>  
                 <div className="col text-center" style={colStyle}>
                 <p className="lead text-center" style={{fontSize:'28px'}}>Walking</p>
