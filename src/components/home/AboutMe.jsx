@@ -51,10 +51,12 @@ const AboutMe = () => {
   return ( 
     <div id="aboutme" className="jumbotron jumbotron-fluid m-0" style={{backgroundColor:'#f7f7f7'}}>
       <div className="container container-fluid">
+      <div className="row">
+      <div className="col d-lg-inline align-self-center">
         <div className="row" style={divStyle}>
-            <div className="col-5 d-none d-lg-inline align-self-center">
+            <div className="col d-lg-inline lead text-center">
               <img
-                className="border border-secondary rounded-circle"
+                className="border border-secondary rounded-circle lead text-center"
                 src={Profile}
                 alt="profilepicture"
                 width="375"
@@ -62,28 +64,13 @@ const AboutMe = () => {
               />
             </div>
             <div className="col d-lg-inline align-self-center">
+              <br/>
             <h1 className="display-4 mb-5 text-center">{aboutHeading}</h1>
-            <p className="lead text-center">{aboutDescription}</p><br/>
-            
-            {/*
-            {resumeURL && (
-              <p className="lead text-center">
-                <a 
-                  className="btn btn-outline-dark btn-lg"
-                  href={Pdf}
-                  target="_blank"
-                  rel="noreferrer noopener"
-                  role="button"
-                  
-                >
-                  Resume
-                </a>
-              </p>
-            )}
-            */}
-            
+            <p className="lead text-center">{aboutDescription}</p><br/>          
           </div>
         </div>
+        </div>
+      </div>
       </div>
     </div>
   );

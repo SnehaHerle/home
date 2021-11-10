@@ -30,7 +30,7 @@ return (
                     />
                     <br/><br/>
                     <p className="lead text-center" style={{fontSize:'22px'}}>
-                        Software Development Engineer - 1
+                        Software Development Engineer - 2
                         <br/>
                         January 2021 - Present
                     </p>
@@ -39,7 +39,7 @@ return (
                     </p>
                     {
                     <p className="lead text-center" style={{fontSize:'15px', fontStyle:'italic'}}>
-                    At Fibonalabs, I am currently working as a SDE-1 (Backend) where I am using Serverless Node.js to implement projects and also using AWS Cloud technologies like AWS SAM, RDS, DynamoDB, S3, Cognito, Lambda, API Gateway, CodeCommit, SES, and CloudFormation. I am also working on the integration of 3rd party tools like Twilio, Stripe, and Firebase. I am also closely coordinating with the project team and also mentoring interns.
+                    At Fibonalabs, I am currently working as a SDE-2 (Backend) where I am using Serverless Node.js to implement projects and also using AWS Cloud technologies like AWS SAM, RDS, DynamoDB, S3, Cognito, Lambda, API Gateway, CodeCommit, SES, and CloudFormation. I am also working on the integration of 3rd party tools like Twilio, Stripe, and Firebase. I am also closely coordinating with the project team and also mentoring interns.
                     <br/>
                     </p>
                     }
