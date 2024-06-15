@@ -51,6 +51,11 @@ const Interests = () => {
                 <img src="https://img.icons8.com/nolan/128/paint-palette.png"/>
                 <p className="lead text-center" style={{fontSize:'15px'}}>Although I'm not a good painter, I paint sometimes just for fun. Something is calming about drawing symmetrical designs or painting scenery with myriad hues. Check out my <a href="https://in.pinterest.com/snehaherle/my-paintings-rangoli-designs/" target="_blank">Pinterest Art Board</a> for paintings!</p>
                 </div>
+                <div className="col text-center" style={colStyle}>
+                <p className="lead text-center" style={{fontSize:'28px'}}>Gardening</p>
+                <img src="https://img.icons8.com/?size=130&id=kfQgBDTSfeaP&format=png&color=000000"/>
+                <p className="lead text-center" style={{fontSize:'15px'}}>I've always been a nature lover and being surrounded by greenery gives me immense peace and joy. Check out my <a href="https://in.pinterest.com/snehaherle/my-paintings-rangoli-designs/" target="_blank">Pinterest Garden Board</a> for pictures of my home garden and <a href="https://www.instagram.com/a.green.panther/" target = "_blank">Green Panther</a> for my Instagram side account of pictures of nature I capture! </p>
+                </div>
             </div>
         </div>
         </div>
